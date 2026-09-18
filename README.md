@@ -32,4 +32,4 @@ The models were evaluated using a stratified 80/20 test split on a balanced 100,
 
 ## 📋 Data Resource Reference
 * **Dataset Used:** Steam Reviews 2021 Dataset (9.6M+ user annotations)
-* **Source Archive:** [Kaggle Dataset Repository](https://kaggle.com)
+* **Source Archive:** https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
